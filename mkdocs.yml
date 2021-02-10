@@ -116,7 +116,10 @@ nav:
 
 - 'Debugging': 'debugging.md'
 - 'Deployment': 'deployment.md'
-- 'Scalability': 'scalability.md'
+
+- 'Scalability':
+    - "Proxy": "scalability/proxy.md"
+    - "Kubernetes": "scalability/kubernetes.md"
 
 - "How-to":
   - 'Password-protect a room': 'how-to/password-protect-room.md'
